@@ -3,6 +3,16 @@
 <!--
 **matthewcotton/matthewcotton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Ideas:
+Where I'm from
+Current job
+Future plans and what I'm learning 
+What languages I code in
+What I have on github
+Pictures of locations I've lived in
+Links to Linkedin and twitter
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
