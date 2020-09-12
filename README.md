@@ -1,10 +1,12 @@
 # Hi there I'm Matt Cotton 👋
 
 ## 🧐 About Me
-- 🕰️ Originally from Whitchurch, Shropshire, UK.
-- 🚘 I'm an electrical engineer in the automotive industry currently living in Toronto, Canada. 
-- ✈️ Have a Masters in Aerospace Engineering from The University of Sheffield. 
-- 🧑‍💻 Building my coding skills bit by bit.
+- 🕰️ Originally from [Whitchurch, Shropshire, UK](https://whitchurch.info/)
+- 🚘 I'm an electrical engineer in the automotive industry currently living in Toronto, Canada
+- ✈️ Have a Masters in Aerospace Engineering from [The University of Sheffield](https://www.sheffield.ac.uk/)
+- 🧑‍💻 Building my coding skills bit by bit
+- 📖 Currently learning C#
+- 🛠️ Looking for opportunties in the Sheffield area. 
 
 ## Coding Projects
 #### HarvardX CS50 
@@ -15,40 +17,39 @@ Problem sets can be found [here](https://github.com/matthewcotton/CS50-ProblemSe
 Final project can be found [here]()
 
 
-## My History in Photos
-#### Whicthcurch
-
-#### Sheffield
-<img src="location_photos/MVIMG_20190622_134948.jpg" alt="Photo of the Kelham Island goit in Sheffield">
-*The goit in Kelham Island, Sheffield*
-
-<img src="location_photos/P7230965.JPG" alt="Photo of Devonshire Green in Sheffield during Tramlines festival 2012">
-*Devonshire Green during Tramlines festival 2012, Sheffield*
-
-#### Leamington Spa
-
-#### Toronto
-
-
-
 ## 📮 How to Contact Me
-If any of the above intrests you feel free to connect with me on social mnedia. 
+If any of my projects or history intrests you feel free to connect with me on social media. 
 [<img src="social_icons/Twitter_Social_Icon_Rounded_Square_Color.png" height="40em" align="center" alt="Follow Matthew Cotton on Twitter" title="Follow Matthew Cotton on Twitter"/>](https://twitter.com/Matt__Cotton)
+
 [<img src="social_icons/LI-In-Bug.png" height="40em" align="center" alt="Follow Matthew Cotton on LinkedIn" title="Follow Matthew Cotton on LinkedIn">](https://www.linkedin.com/in/matthew-cotton-ba1a3449/)
 
 
+## A Selection of Photos
+#### Sheffield
+*The goit in Kelham Island, Sheffield, June 2019*
+<img src="location_photos/MVIMG_20190622_134948.jpg" alt="Photo of the Kelham Island goit in Sheffield">
+
+*Devonshire Green during Tramlines festival, July 2011*
+<img src="location_photos/P7230965.JPG" alt="Photo of Devonshire Green in Sheffield during Tramlines festival 2011">
+
+
+#### Leamington Spa
+*Jaguar C Type at Fen End, Warwickshire, Oct 2015*
+<img src="location_photos/IMG_20151028_105241.jpg" alt="Photo of Jaguar C type at Fen End circuit in Warwickshire">
+
+*Our cat Gizmo in the Garden, May 2016*
+<img src="location_photos/IMG_20160522_120532.jpg" alt="Gizmo our cat at home in Leamington Spa">
+
+
+#### Toronto
+*Toronto skyline take from Tommy Thompson Park, March 2020*
+<img src="location_photos/IMG_20200307_145043-EFFECTS.jpg" alt="Photo of Toronto skyline take from Tommy Thompson Park">
+
+*Torotno Blue Jays Playing at the Rogers Center, Sept 2016*
+<img src="location_photos/IMG-20160929-WA0001.jpeg" alt="Toronto Blue Jays playing at the Rogers Center">
 
 <!--
 **matthewcotton/matthewcotton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Ideas:
-Where I'm from
-Current job
-Future plans and what I'm learning 
-What languages I code in
-What I have on github
-Pictures of locations I've lived in
-Links to Linkedin and twitter
 
 
 Here are some ideas to get you started:
