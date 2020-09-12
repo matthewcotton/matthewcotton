@@ -1,8 +1,8 @@
 ## Hi there I'm Matt Cotton 👋
 
 ## How to Contact Me
-[<img src="" height="40em" align="center" alt="Follow Matthew Cotton on Twitter" title="Follow Matthew Cotton on Twitter/>](https://twitter.com/Matt__Cotton)
-[<img src="" height="40em" align="center" alt="Follow Matthew Cotton on LinkedIn" title="Follow Matthew Cotton on LinkedIn/>](https://www.linkedin.com/in/matthew-cotton-ba1a3449/)
+[<img src="https://github.com/matthewcotton/matthewcotton/blob/master/social_icons/Twitter_Social_Icon_Rounded_Square_Color.png" height="40em" align="center" alt="Follow Matthew Cotton on Twitter" title="Follow Matthew Cotton on Twitter/>](https://twitter.com/Matt__Cotton)
+[<img src="https://github.com/matthewcotton/matthewcotton/blob/master/social_icons/LI-In-Bug.png" height="40em" align="center" alt="Follow Matthew Cotton on LinkedIn" title="Follow Matthew Cotton on LinkedIn/>](https://www.linkedin.com/in/matthew-cotton-ba1a3449/)
 
 
 <!--
