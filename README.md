@@ -21,7 +21,7 @@ Final project can be found [here](https://github.com/matthewcotton/TheVirtualSub
 If any of my projects or history intrests you feel free to connect with me on social media. 
 [<img src="https://github.com/matthewcotton/matthewcotton/blob/master/social_icons/Twitter_Social_Icon_Rounded_Square_Color.png" height="40em" align="center" alt="Follow Matthew Cotton on Twitter" title="Follow Matthew Cotton on Twitter"/>](https://twitter.com/Matt__Cotton)
 
-[<img src="https://github.com/matthewcotton/matthewcotton/blob/master/social_icons/Twitter_Social_Icon_Rounded_Square_Color.png" height="40em" align="center" alt="Follow Matthew Cotton on LinkedIn" title="Follow Matthew Cotton on LinkedIn">](https://www.linkedin.com/in/matthew-cotton-ba1a3449/)
+[<img src="https://github.com/matthewcotton/matthewcotton/blob/master/social_icons/LI-In-Bug.png" height="40em" align="center" alt="Follow Matthew Cotton on LinkedIn" title="Follow Matthew Cotton on LinkedIn">](https://www.linkedin.com/in/matthew-cotton-ba1a3449/)
 
 
 ## A Selection of Photos
