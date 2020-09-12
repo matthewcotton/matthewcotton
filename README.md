@@ -22,7 +22,7 @@ Final project can be found [here]()
 <img src="location_photos/MVIMG_20190622_134948.jpg" alt="Photo of the Kelham Island goit in Sheffield">
 *The goit in Kelham Island, Sheffield*
 
-<img src="location_photos/P7230965.jpg" alt="Photo of Devonshire Green in Sheffield during Tramlines festival 2012">
+<img src="location_photos/P7230965.JPG" alt="Photo of Devonshire Green in Sheffield during Tramlines festival 2012">
 *Devonshire Green during Tramlines festival 2012, Sheffield*
 
 #### Leamington Spa
