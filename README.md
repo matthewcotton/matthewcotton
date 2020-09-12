@@ -1,8 +1,27 @@
-## Hi there I'm Matt Cotton 👋
+# Hi there I'm Matt Cotton 👋
 
-## How to Contact Me
-[<img src="https://github.com/matthewcotton/matthewcotton/blob/master/social_icons/Twitter_Social_Icon_Rounded_Square_Color.png" height="40em" align="center" alt="Follow Matthew Cotton on Twitter" title="Follow Matthew Cotton on Twitter/>](https://twitter.com/Matt__Cotton)
-[<img src="https://github.com/matthewcotton/matthewcotton/blob/master/social_icons/LI-In-Bug.png" height="40em" align="center" alt="Follow Matthew Cotton on LinkedIn" title="Follow Matthew Cotton on LinkedIn/>](https://www.linkedin.com/in/matthew-cotton-ba1a3449/)
+## 🧐 About Me
+- 🕰️ Originally from Whitchurch, Shropshire, UK.
+- 🚘 I'm an electrical engineer in the automotive industry currently living in Toronto, Canada. 
+- ✈️ Have a Masterin Aerospace Engineering from The University of Sheffield. 
+- 🧑‍💻 Building my coding skills bit by bit.
+
+## Coding Projects
+#### HarvardX CS50 
+Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, and software engineering. Languages include C, Python, and SQL plus students’ choice of: HTML, CSS, and JavaScript.
+
+Problem sets can be found [here](https://github.com/matthewcotton/CS50-ProblemSets)
+Final project can be found [here]()
+
+
+## My History in Photos
+
+
+## 📮 How to Contact Me
+If any of the above intrests you feel free to connect with me on social mnedia. 
+[<img src="social_icons/Twitter_Social_Icon_Rounded_Square_Color.png" height="40em" align="center" alt="Follow Matthew Cotton on Twitter" title="Follow Matthew Cotton on Twitter"/>](https://twitter.com/Matt__Cotton)
+[<img src="social_icons/LI-In-Bug.png" height="40em" align="center" alt="Follow Matthew Cotton on LinkedIn" title="Follow Matthew Cotton on LinkedIn">](https://www.linkedin.com/in/matthew-cotton-ba1a3449/)
+
 
 
 <!--
