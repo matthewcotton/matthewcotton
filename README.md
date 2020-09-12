@@ -9,12 +9,30 @@
 - 🛠️ Looking for opportunties in the Sheffield area. 
 
 ## Coding Projects
-#### HarvardX CS50 
+### HarvardX CS50 
 Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, and software engineering. Languages include C, Python, and SQL plus students’ choice of: HTML, CSS, and JavaScript.
 
 Problem sets can be found [here](https://github.com/matthewcotton/CS50-ProblemSets)
 
 Final project can be found [here](https://github.com/matthewcotton/TheVirtualSubwayGame)
+
+
+### C++ Text Adventure
+This is a basic text game with some text art animations. Needs a lot more work to become a fun game. Written in C++.
+
+Repo can be found [here](https://github.com/matthewcotton/TextAdventure)
+
+
+### Recreating Lodash
+Task from Codacademy to recrate some of the Lodash functionality. Written in JavaScript.
+
+Repo can be found [here](https://github.com/matthewcotton/RecreatingLodash)
+
+
+### Tea Cozy Webpage
+Task from Codacademy to create a basic webpage based on a given specification. Written in HTML and CSS.
+
+Repo can be found [here](https://github.com/matthewcotton/TeaCozy)
 
 
 ## 📮 How to Contact Me
@@ -25,7 +43,7 @@ If any of my projects or history intrests you feel free to connect with me on so
 
 
 ## A Selection of Photos
-#### Sheffield
+### Sheffield
 *The goit in Kelham Island, Sheffield, June 2019*
 <img src="https://github.com/matthewcotton/matthewcotton/blob/master/location_photos/MVIMG_20190622_134948.jpg" alt="Photo of the Kelham Island goit in Sheffield">
 
@@ -33,7 +51,7 @@ If any of my projects or history intrests you feel free to connect with me on so
 <img src="https://github.com/matthewcotton/matthewcotton/blob/master/location_photos/P7230965.JPG" alt="Photo of Devonshire Green in Sheffield during Tramlines festival 2011">
 
 
-#### Leamington Spa
+### Leamington Spa
 *Jaguar C Type at Fen End, Warwickshire, Oct 2015*
 <img src="https://github.com/matthewcotton/matthewcotton/blob/master/location_photos/IMG_20151028_105241.jpg" alt="Photo of Jaguar C type at Fen End circuit in Warwickshire">
 
@@ -41,7 +59,7 @@ If any of my projects or history intrests you feel free to connect with me on so
 <img src="https://github.com/matthewcotton/matthewcotton/blob/master/location_photos/IMG_20160522_120532.jpg" alt="Gizmo our cat at home in Leamington Spa">
 
 
-#### Toronto
+### Toronto
 *Toronto skyline take from Tommy Thompson Park, March 2020*
 <img src="https://github.com/matthewcotton/matthewcotton/blob/master/location_photos/IMG_20200307_145043-EFFECTS.jpg" alt="Photo of Toronto skyline take from Tommy Thompson Park">
 
