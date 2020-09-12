@@ -27,7 +27,7 @@ If any of my projects or history intrests you feel free to connect with me on so
 ## A Selection of Photos
 #### Sheffield
 *The goit in Kelham Island, Sheffield, June 2019*
-<img src="location_photos/MVIMG_20190622_134948.jpg" alt="Photo of the Kelham Island goit in Sheffield">
+<img src="https://github.com/matthewcotton/matthewcotton/blob/master/location_photos/MVIMG_20190622_134948.jpg" alt="Photo of the Kelham Island goit in Sheffield">
 
 *Devonshire Green during Tramlines festival, July 2011*
 <img src="https://github.com/matthewcotton/matthewcotton/blob/master/location_photos/P7230965.JPG" alt="Photo of Devonshire Green in Sheffield during Tramlines festival 2011">
