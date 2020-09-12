@@ -14,7 +14,7 @@ Topics include abstraction, algorithms, data structures, encapsulation, resource
 
 Problem sets can be found [here](https://github.com/matthewcotton/CS50-ProblemSets)
 
-Final project can be found [here]()
+Final project can be found [here](https://github.com/matthewcotton/TheVirtualSubwayGame)
 
 
 ## 📮 How to Contact Me
@@ -46,7 +46,7 @@ If any of my projects or history intrests you feel free to connect with me on so
 <img src="location_photos/IMG_20200307_145043-EFFECTS.jpg" alt="Photo of Toronto skyline take from Tommy Thompson Park">
 
 *Torotno Blue Jays Playing at the Rogers Center, Sept 2016*
-<img src="location_photos/IMG-20160929-WA0001.jpeg" alt="Toronto Blue Jays playing at the Rogers Center">
+<img src="https://github.com/matthewcotton/matthewcotton/blob/master/location_photos/IMG-20160929-WA0001.jpeg" alt="Toronto Blue Jays playing at the Rogers Center">
 
 <!--
 **matthewcotton/matthewcotton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
