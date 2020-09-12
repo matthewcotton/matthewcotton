@@ -3,7 +3,7 @@
 ## 🧐 About Me
 - 🕰️ Originally from Whitchurch, Shropshire, UK.
 - 🚘 I'm an electrical engineer in the automotive industry currently living in Toronto, Canada. 
-- ✈️ Have a Masterin Aerospace Engineering from The University of Sheffield. 
+- ✈️ Have a Masters in Aerospace Engineering from The University of Sheffield. 
 - 🧑‍💻 Building my coding skills bit by bit.
 
 ## Coding Projects
@@ -11,10 +11,24 @@
 Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, and software engineering. Languages include C, Python, and SQL plus students’ choice of: HTML, CSS, and JavaScript.
 
 Problem sets can be found [here](https://github.com/matthewcotton/CS50-ProblemSets)
+
 Final project can be found [here]()
 
 
 ## My History in Photos
+#### Whicthcurch
+
+#### Sheffield
+<img src="location_photos/MVIMG_20190622_134948.jpg" alt="Photo of the Kelham Island goit in Sheffield">
+*The goit in Kelham Island, Sheffield*
+
+<img src="location_photos/P7230965.jpg" alt="Photo of Devonshire Green in Sheffield during Tramlines festival 2012">
+*Devonshire Green during Tramlines festival 2012, Sheffield*
+
+#### Leamington Spa
+
+#### Toronto
+
 
 
 ## 📮 How to Contact Me
