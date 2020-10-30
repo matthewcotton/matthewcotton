@@ -10,13 +10,13 @@
 
 ## Coding Projects
 ### The Developer Academy Projects
-Topics covered so far include HTML, CSS and JavaScript. The projects I have completed so far are listed below.
+Topics covered so far include HTML, CSS and JavaScript. Projects so far:
 
-[Simple Web Page](https://github.com/matthewcotton/simple-web-page)
+Simple Web Page [GitHib Pages Site](https://matthewcotton.github.io/simple-web-page/) [Repo](https://github.com/matthewcotton/simple-web-page)
 
-[Foster Cat Web Page](https://github.com/matthewcotton/hobby-site)
+Foster Cat Web Page [GitHub Pages Site](https://matthewcotton.github.io/hobby-site/) [Repo](https://github.com/matthewcotton/hobby-site)
 
-[Quiz using JavaScript](https://github.com/matthewcotton/js-quiz)
+Quiz using JavaScript [GitHub Pages Site] (https://matthewcotton.github.io/js-quiz/) [Repo](https://github.com/matthewcotton/js-quiz)
 
 
 ### HarvardX CS50 
