@@ -4,8 +4,8 @@
 - 🕰️ Originally from [Whitchurch, Shropshire, UK](https://whitchurch.info/)
 - 🚘 I'm an electrical engineer in the automotive industry currently living in Toronto, Canada
 - ✈️ Have a Masters in Aerospace Engineering from [The University of Sheffield](https://www.sheffield.ac.uk/)
-- 🧑‍💻 Building my coding skills bit by bit
-- 📖 Currently learning C#
+- 🧑‍💻 Building my coding skills bit by bit.
+- 📖 Currently improving my JavaScript skills.
 - 🛠️ Looking for opportunties in the Sheffield area. 
 
 ## Coding Projects
