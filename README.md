@@ -9,6 +9,16 @@
 - 🛠️ Looking for opportunties in the Sheffield area. 
 
 ## Coding Projects
+### The Developer Academy Projects
+Topics covered so far include HTML, CSS and JavaScript. The projects I have completed so far are listed below.
+
+[Simple Web Page](https://github.com/matthewcotton/simple-web-page)
+
+[Foster Cat Web Page](https://github.com/matthewcotton/hobby-site)
+
+[Quiz using JavaScript](https://github.com/matthewcotton/js-quiz)
+
+
 ### HarvardX CS50 
 Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, and software engineering. Languages include C, Python, and SQL plus students’ choice of: HTML, CSS, and JavaScript.
 
