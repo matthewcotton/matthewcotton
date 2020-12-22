@@ -6,7 +6,7 @@
 - 🛠️ Looking for opportunities in the Sheffield area. 
 - 🚘 8 years experience as an electrical engineer in the automotive industry at both Jaguar Land Rover and General Motors (Canada).
 - ✈️ Have a Masters in Aerospace Engineering from [The University of Sheffield](https://www.sheffield.ac.uk/)
-- My portfolio [www.matthewcotton.dev](https://www.matthewcotton.dev/#/)
+- 📜 My portfolio [www.matthewcotton.dev](https://www.matthewcotton.dev/#/)
 
 ## Coding Projects
 ### The Developer Academy Projects
